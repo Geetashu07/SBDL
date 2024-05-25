@@ -17,4 +17,4 @@ if __name__ == '__main__':
 
     logger.info("Finished creating Spark Session")
     logger.info("One More Message")
-   
+    logger.info('Message of 25-02-2024')
